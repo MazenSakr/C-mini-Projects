@@ -1,2 +1,2 @@
 # C-mini-Projects
-A repository containing many random small c projects made for training
+A repository containing many random small C projects made for training
